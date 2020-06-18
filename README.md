@@ -1,2 +1,2 @@
 # SummerProject
-# by Amber Li
+by Amber Li
